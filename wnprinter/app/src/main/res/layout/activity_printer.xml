@@ -19,7 +19,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="打印"
+        android:text="   打印   "
         android:id="@+id/btn_printer"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
